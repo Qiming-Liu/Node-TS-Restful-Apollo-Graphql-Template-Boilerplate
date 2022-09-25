@@ -32,7 +32,7 @@ const server = new ApolloServer({
 const swaggerOptions = {
   swaggerDefinition: {
     info: {
-      title: 'Sortlog API',
+      title: 'nodets-template API',
       version: '1.0.0',
     },
   },
