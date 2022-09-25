@@ -2,7 +2,7 @@
   "name": "nodets-template",
   "version": "1.0.0",
   "author": "Alan",
-  "repository": "https://github.com/Qiming-Liu/Node-TS-Express-Mongo-Apollo-Graphql-Template",
+  "repository": "https://github.com/Qiming-Liu/Node-TS-Restful-Apollo-Graphql-Template-Boilerplate",
   "license": "MIT",
   "main": "dist/server.js",
   "scripts": {
